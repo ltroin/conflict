@@ -1,0 +1,14 @@
+{
+  "N": {
+    "cross|scripts=0|0.72-0.8": 5809,
+    "cross|scripts=0|0.8-0.9": 14791,
+    "cross|scripts=0|0.9-1": 16656,
+    "cross|scripts=1|0.72-0.8": 383,
+    "cross|scripts=1|0.8-0.9": 1292,
+    "cross|scripts=1|0.9-1": 2124,
+    "within|scripts=0|0.52-0.8": 18689,
+    "within|scripts=0|0.8-1": 20464,
+    "within|scripts=1|0.52-0.8": 1636,
+    "within|scripts=1|0.8-1": 2233
+  }
+}
